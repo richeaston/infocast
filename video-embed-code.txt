@@ -1,0 +1,7 @@
+<object classid="clsid:02BF25D5-8C17-4B23-BC80-D3488ABDDC6B" codebase="http://www.apple.com/qtactivex/qtplugin.cab" height="195" width="340" name="CRUNKCinema" align="left">
+     <param name="src" value="movietrailers/trailer_sma.mov">
+     <param name="autoplay" value="true">
+     <param name="controller" value="true">
+     <embed height="195" width="340" align="left" src="movietrailers/trailer_sma.mov" autoplay="true" controller="true">
+     </embed>
+    </object>
