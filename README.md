@@ -5,6 +5,7 @@ A web based (PHP) light weight, digital signage system to display content on scr
 Requirements
 ============
 <ul>
+<li>windows/linux/mac based workstation per screen with internet/network access</li>
 <li>Windows server php support install</li>
 <li>read/write access to DB file.</li>
 </ul>
